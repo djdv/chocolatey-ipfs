@@ -3,12 +3,13 @@
   <metadata>
     <id>ipfs</id>
     <title>InterPlanetary File System</title>
-    <version>0.4.19</version>
+    <version>0.5.0</version>
     <authors>Protocol Labs</authors>
     <owners>Dominic</owners>
     <summary>A peer-to-peer hypermedia protocol to make the web faster, safer, and more open</summary>
     <description>
-	The Go implimentation for IPFS, a peer-to-peer hypermedia protocol
+	The Go implementation for IPFS, a peer-to-peer hypermedia protocol.
+	https://docs.ipfs.io/reference/api/cli/
     </description>
     <packageSourceUrl>https://github.com/djdv/chocolatey-ipfs/</packageSourceUrl>
     <projectUrl>https://ipfs.io/</projectUrl>
@@ -16,8 +17,8 @@
     <bugTrackerUrl>https://github.com/ipfs/go-ipfs/issues</bugTrackerUrl>
     <docsUrl>https://docs.ipfs.io</docsUrl>
     <mailingListUrl>https://docs.ipfs.io/#community</mailingListUrl>
-    <iconUrl>https://cdn.rawgit.com/ipfs/logo/c69e0017e73d8cd75c4c704a2fb748792b401fcf/platform-icons/ipfs.ico</iconUrl>
-    <tags>p2p distributed protocol gateway cli webui</tags>
+    <iconUrl>https://ipfs.io/ipfs/QmXbCUGR4kWndmZyEV7AYZRh1AwsUfyAMbKJegHumyab5S/ipfs-logo-vector-ice-text.svg</iconUrl>
+    <tags>go-ipfs distributed p2p InterPlanetary-File-System protocol cli webui</tags>
     <copyright>© Protocol Labs</copyright>
     <licenseUrl>https://github.com/ipfs/go-ipfs/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
